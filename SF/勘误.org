@@ -1,0 +1,18 @@
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \setCJKmainfont{SimSun}
+\newpage
+
+* Typo 
+
+1. 归纳证明、形式化证明vs非形式化证明 但咱 -> 但在
+2. 更多基本策略 : converse 交流 ->逆命题
+
+* 删减(指中文版中有但是英文版里没有)
+
+1. 
+
+* 疑问
+
+1. 英文版， Lists, Exercise: 2 stars, recommended (lists funs) countoddmembers处前面使用的是Definition定义，是不是应该为Fixpoint？
+
+

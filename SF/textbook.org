@@ -1,0 +1,16 @@
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \setCJKmainfont{SimSun}
+\newpage
+
+* Basics
+
+* Induciton
+
+** formal vs. informal proog
+   + informal proofs are algorithms; formal proogs are code.
+   + A proof of a mathematical proposition P is a written text that instills in the reader or hearer the certainty that P is true --  an unassailable argument for the truth of P. In another words, a proof is an act of communication.
+     - One hand, those reader could be machines like "Coq" thus formal proofs generated.
+
+* Lists
+
+
